@@ -178,10 +178,10 @@ grunt plugin to work with your code.
 6. Run the task in command line (grunt taskname)
 
 ### Resources
-[NPM Grunt Package](https://www.npmjs.com/package/grunt)
-[Grunt.js Documentation](http://gruntjs.com/)
-[JSHint Documentation](http://jshint.com/docs/)
-[Grunt by Example: A Tutorial for JavaScripts Tasks](http://www.brianchu.com/blog/2013/07/11/grunt-by-example-a-tutorial-for-javascripts-task-runner/)
-[Get Up Running Grunt](https://www.smashingmagazine.com/2013/10/get-up-running-grunt/)
-[Grunt Is Not Weird and Hard](https://24ways.org/2013/grunt-is-not-weird-and-hard/)
-[GruntJS Tutorial From Beginner to Ninja](http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja)
+*  [NPM Grunt Package](https://www.npmjs.com/package/grunt)
+*  [Grunt.js Documentation](http://gruntjs.com/)
+*  [JSHint Documentation](http://jshint.com/docs/)
+*  [Grunt by Example: A Tutorial for JavaScripts Tasks](http://www.brianchu.com/blog/2013/07/11/grunt-by-example-a-tutorial-for-javascripts-task-runner/)
+*  [Get Up Running Grunt](https://www.smashingmagazine.com/2013/10/get-up-running-grunt/)
+*  [Grunt Is Not Weird and Hard](https://24ways.org/2013/grunt-is-not-weird-and-hard/)
+*  [GruntJS Tutorial From Beginner to Ninja](http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja)
