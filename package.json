@@ -1,0 +1,11 @@
+{
+  "name": "grunt-presentation",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
