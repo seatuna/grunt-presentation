@@ -99,9 +99,18 @@ module.exports = function(grunt){
 };
 ```
 
+"concat" is the default task name, dist stands for distribution, src (source)
+is the path of the source code, and dest (destination) is where the output goes.
+
 Note the line dest: '<%= distFolder %>/main.js'.  <%= %> tells grunt to expand
 the text inside into whatever value distFolder has.  It's sort of like a
 variable.  You can change the value of distFolder to anything you like, and
 the destination folder will be named it.
 
-Now that your Gruntfile is configured, 
+Now that your Gruntfile is configured, go ahead and run your task!
+
+```
+grunt combine
+```
+
+We now have a new folder called 'production' with our concatenated main.js file!
